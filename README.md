@@ -26,7 +26,7 @@ Examples:
 With packer:
 ```lua
 use({
-  "giusgad/pets.nvim",
+  "doaso/pets.nvim",
   requires = {
     "giusgad/hologram.nvim",
     "MunifTanjim/nui.nvim",
