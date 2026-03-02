@@ -105,6 +105,7 @@ These are all the available commands:
 |rubber duck|yellow|
 |snake|green|
 |zappy|yellow|
+|catgirl|blue|
 
 <!-- panvimdoc-ignore-start -->
 ![bar.png](./bar.png)
