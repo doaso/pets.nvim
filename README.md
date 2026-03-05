@@ -36,7 +36,7 @@ use({
 With lazy:
 ```lua
 {
-  "giusgad/pets.nvim",
+  "doaso/pets.nvim",
   dependencies = { "MunifTanjim/nui.nvim", "giusgad/hologram.nvim" },
 }
 ```
